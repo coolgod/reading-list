@@ -9,6 +9,7 @@ A list of fantastic javascript articles I've read.
 
 ## Node.js / npm
 - [semver(1) -- The semantic versioner for npm](https://github.com/npm/node-semver/blob/master/README.md)
+- [stream-handbook](https://github.com/substack/stream-handbook)
 
 ## ES / javascript
 - [Immediately-Invoked Function Expression (IIFE)](http://benalman.com/news/2010/11/immediately-invoked-function-expression/)
