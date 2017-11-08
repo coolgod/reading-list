@@ -14,4 +14,7 @@ A list of fantastic javascript articles I've read.
 ## ES / javascript
 - [Immediately-Invoked Function Expression (IIFE)](http://benalman.com/news/2010/11/immediately-invoked-function-expression/)
 
+## Front-end Engineering
+- [Understanding Webpack HMR](https://www.andrewhfarmer.com/understanding-hmr/)
+
 Hopefully, this list will be updated very frequently!
