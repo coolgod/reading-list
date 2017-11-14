@@ -18,4 +18,7 @@ A list of fantastic javascript articles I've read.
 ## Front-end Engineering
 - [Understanding Webpack HMR](https://www.andrewhfarmer.com/understanding-hmr/)
 
+## Debug & Tooling
+- [如何读懂火焰图？](http://www.ruanyifeng.com/blog/2017/09/flame-graph.html)
+
 Hopefully, this list will be updated very frequently!
