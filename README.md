@@ -4,6 +4,8 @@ A list of fantastic javascript articles I've read.
 ### Events
 - [Introduction into Events: Bubbling and capturing](https://javascript.info/bubbling-and-capturing)
 
+## React
+- [Why and how to bind methods in your React component classes?](http://reactkungfu.com/2015/07/why-and-how-to-bind-methods-in-your-react-component-classes/)
 ## Redux
 - [Middleware](http://redux.js.org/docs/advanced/Middleware.html)
 
