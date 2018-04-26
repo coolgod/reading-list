@@ -3,7 +3,7 @@ A list of fantastic javascript articles I've read.
 ## DOM
 ### Events
 - [Introduction into Events: Bubbling and capturing](https://javascript.info/bubbling-and-capturing)
-
+- [Debouncing and Throttling Explained Through Examples](https://css-tricks.com/debouncing-throttling-explained-examples/)
 ## React
 - [Why and how to bind methods in your React component classes?](http://reactkungfu.com/2015/07/why-and-how-to-bind-methods-in-your-react-component-classes/)
 ## Redux
