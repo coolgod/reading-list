@@ -1,7 +1,10 @@
-A list of fantastic javascript articles I've read.
+A list of nice javascript articles I've read.
 
 ## DOM
-### Events
+
+## Web API
+- [The Basics of Web Workers](https://www.html5rocks.com/en/tutorials/workers/basics/)
+## Events
 - [Introduction into Events: Bubbling and capturing](https://javascript.info/bubbling-and-capturing)
 - [Debouncing and Throttling Explained Through Examples](https://css-tricks.com/debouncing-throttling-explained-examples/)
 ## React
