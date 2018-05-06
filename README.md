@@ -1,4 +1,4 @@
-A list of nice javascript articles I've read.
+A list of articles related to front-end development I've read and found valuable.
 
 ## DOM
 
@@ -22,6 +22,7 @@ A list of nice javascript articles I've read.
 
 ## Front-end Engineering
 - [Understanding Webpack HMR](https://www.andrewhfarmer.com/understanding-hmr/)
+- [大公司里怎样开发和部署前端代码？](https://github.com/fouber/blog/issues/6)
 
 ## Debug & Tooling
 - [如何读懂火焰图？](http://www.ruanyifeng.com/blog/2017/09/flame-graph.html)
