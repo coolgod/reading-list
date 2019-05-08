@@ -16,6 +16,7 @@ A list of articles related to front-end development I've read and found valuable
 - [semver(1) -- The semantic versioner for npm](https://github.com/npm/node-semver/blob/master/README.md)
 - [stream-handbook](https://github.com/substack/stream-handbook)
 - [Introducing npx: an npm package runner](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)
+- [The Node.js Event Loop, Timers, and process.nextTick()](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/)
 
 ## ES / javascript
 - [Immediately-Invoked Function Expression (IIFE)](http://benalman.com/news/2010/11/immediately-invoked-function-expression/)
