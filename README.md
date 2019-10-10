@@ -4,11 +4,15 @@ A list of articles related to front-end development I've read and found valuable
 
 ## Web API
 - [The Basics of Web Workers](https://www.html5rocks.com/en/tutorials/workers/basics/)
+
 ## Events
 - [Introduction into Events: Bubbling and capturing](https://javascript.info/bubbling-and-capturing)
 - [Debouncing and Throttling Explained Through Examples](https://css-tricks.com/debouncing-throttling-explained-examples/)
+
 ## React
 - [Why and how to bind methods in your React component classes?](http://reactkungfu.com/2015/07/why-and-how-to-bind-methods-in-your-react-component-classes/)
+- [Making setInterval Declarative with React Hooks](https://overreacted.io/making-setinterval-declarative-with-react-hooks/)
+
 ## Redux
 - [Middleware](http://redux.js.org/docs/advanced/Middleware.html)
 
