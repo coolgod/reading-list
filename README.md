@@ -29,7 +29,7 @@ A list of articles related to front-end development I've read and found valuable
 - [Asynchronous stack traces: why await beats Promise#then()](https://mathiasbynens.be/notes/async-stack-traces)
 
 ## Front-end Engineering
-- [Understanding Webpack HMR](https://www.andrewhfarmer.com/understanding-hmr/)
+- [Understanding Webpack HMR](https://www.javascriptstuff.com/understanding-hmr/)
 - [大公司里怎样开发和部署前端代码？](https://github.com/fouber/blog/issues/6)
 
 ## Debug & Tooling
