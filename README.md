@@ -28,6 +28,7 @@ A list of articles related to front-end development I've read and found valuable
 - [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/?utm_source=dev-newsletter&utm_medium=email&utm_campaign=mar29-2018)
 - [The Definitive Guide to the JavaScript Generators](https://github.com/gajus/gajus.com-blog/blob/master/posts/the-definitive-guide-to-the-javascript-generators/index.md)
 - [Asynchronous stack traces: why await beats Promise#then()](https://mathiasbynens.be/notes/async-stack-traces)
+- [Algebraic Effects for the Rest of Us](https://overreacted.io/algebraic-effects-for-the-rest-of-us/)
 
 ## Front-end Engineering
 - [Understanding Webpack HMR](https://www.javascriptstuff.com/understanding-hmr/)
