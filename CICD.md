@@ -1,0 +1,1 @@
+[Pattern: Service Mesh](https://philcalcado.com/2017/08/03/pattern_service_mesh.html)
