@@ -33,6 +33,7 @@ A list of articles related to front-end development I've read and found valuable
 ## Front-end Engineering
 - [Understanding Webpack HMR](https://www.javascriptstuff.com/understanding-hmr/)
 - [大公司里怎样开发和部署前端代码？](https://github.com/fouber/blog/issues/6)
+- [The 100% correct way to split your chunks with Webpack](https://medium.com/hackernoon/the-100-correct-way-to-split-your-chunks-with-webpack-f8a9df5b7758)
 
 ## Debug & Tooling
 - [如何读懂火焰图？](http://www.ruanyifeng.com/blog/2017/09/flame-graph.html)
