@@ -13,6 +13,7 @@ A list of articles related to front-end development I've read and found valuable
 - [Why and how to bind methods in your React component classes?](http://reactkungfu.com/2015/07/why-and-how-to-bind-methods-in-your-react-component-classes/)
 - [Making setInterval Declarative with React Hooks](https://overreacted.io/making-setinterval-declarative-with-react-hooks/)
 - [React Hooks 是否可以改为用类似 Vue 3 Composition API 的方式实现？](https://www.zhihu.com/question/378861485/answer/1125724740)
+- [Infinite List and React](https://itsze.ro/blog/2017/04/09/infinite-list-and-react.html)
 
 ## Redux
 - [Middleware](http://redux.js.org/docs/advanced/Middleware.html)
