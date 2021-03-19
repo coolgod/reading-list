@@ -1,1 +1,2 @@
-[Pattern: Service Mesh](https://philcalcado.com/2017/08/03/pattern_service_mesh.html)
+- [Pattern: Service Mesh](https://philcalcado.com/2017/08/03/pattern_service_mesh.html)
+- [GOTO 2018 • Containers From Scratch • Liz Rice](https://www.youtube.com/watch?v=8fi7uSYlOdc&ab_channel=GOTOConferences)
