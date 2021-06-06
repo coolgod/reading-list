@@ -43,6 +43,7 @@ A list of articles related to front-end development I've read and found valuable
 
 ## Styling
 - [A Dao of Web Design](https://alistapart.com/article/dao/)
+- [CSS Specificity](http://www.standardista.com/css3/css-specificity/)
 - [The magic behind 💅 styled-components](https://mxstbr.blog/2016/11/styled-components-magic-explained/)
 - [Deep dive CSS: font metrics, line-height and vertical-align](https://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
