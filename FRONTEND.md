@@ -49,6 +49,7 @@ A list of articles related to front-end development I've read and found valuable
 - [The magic behind 💅 styled-components](https://mxstbr.blog/2016/11/styled-components-magic-explained/)
 - [Deep dive CSS: font metrics, line-height and vertical-align](https://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [Don’t use IDs in CSS selectors?](https://web.archive.org/web/20190901050026/http://oli.jp/2011/ids/)
 - [The stacking context](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context)
 
