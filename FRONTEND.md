@@ -53,5 +53,6 @@ A list of articles related to front-end development I've read and found valuable
 - [An Introduction to the `fr` CSS unit](https://css-tricks.com/introduction-fr-css-unit/)
 - [Don’t use IDs in CSS selectors?](https://web.archive.org/web/20190901050026/http://oli.jp/2011/ids/)
 - [The stacking context](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context)
+- [Spring Animation in CSS](https://medium.com/@dtinth/spring-animation-in-css-2039de6e1a03)
 
 Hopefully, this list will be updated very frequently!
