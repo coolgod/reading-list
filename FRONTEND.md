@@ -14,6 +14,7 @@ A list of articles related to front-end development I've read and found valuable
 - [React Hooks 是否可以改为用类似 Vue 3 Composition API 的方式实现？](https://www.zhihu.com/question/378861485/answer/1125724740)
 - [Infinite List and React](https://itsze.ro/blog/2017/04/09/infinite-list-and-react.html)
 - [The Rules of React](https://gist.github.com/sebmarkbage/75f0838967cd003cd7f9ab938eb1958f)
+- [Blogged Answers: A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
 
 ## Redux
 - [Middleware](http://redux.js.org/docs/advanced/Middleware.html)
