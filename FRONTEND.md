@@ -5,7 +5,6 @@
 - [Introduction into Events: Bubbling and capturing](https://javascript.info/bubbling-and-capturing)
 - [Debouncing and Throttling Explained Through Examples](https://css-tricks.com/debouncing-throttling-explained-examples/)
 
-<<<<<<< HEAD
 ## Frameworks
 - [Reactivity in Depth](https://vuejs.org/guide/extras/reactivity-in-depth)
 - [React Components, Elements, and Instances](https://reactjs.org/blog/2015/12/18/react-components-elements-and-instances.html)
