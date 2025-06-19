@@ -9,6 +9,7 @@ Valuable articles. There is a dedicated page for [frontend](./FRONTEND.md)
 ## Backend
 - [The Log: What every software engineer should know about real-time data's unifying abstraction
 ](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
+- [What is a Service Mesh?](https://www.buoyant.io/what-is-a-service-mesh)
 
 ## Infrastructure
 - [Pattern: Service Mesh](https://philcalcado.com/2017/08/03/pattern_service_mesh.html)
